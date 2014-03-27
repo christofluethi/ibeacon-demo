@@ -140,12 +140,12 @@
 				33B8F21318E4A65D00101D51 /* ViewControllers */,
 				331AD7C718E4A28500E41EF1 /* AppDelegate.h */,
 				331AD7C818E4A28500E41EF1 /* AppDelegate.m */,
+				33B8F21018E4A61D00101D51 /* Constants.h */,
+				33B8F21118E4A61D00101D51 /* Constants.m */,
 				331AD7CA18E4A28500E41EF1 /* Main_iPhone.storyboard */,
 				331AD7CD18E4A28500E41EF1 /* Main_iPad.storyboard */,
 				331AD7D318E4A28500E41EF1 /* Images.xcassets */,
 				331AD7BF18E4A28500E41EF1 /* Supporting Files */,
-				33B8F21018E4A61D00101D51 /* Constants.h */,
-				33B8F21118E4A61D00101D51 /* Constants.m */,
 			);
 			path = iBeaconDemo;
 			sourceTree = "<group>";
